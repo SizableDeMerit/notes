@@ -12,7 +12,7 @@ This repository is a collection of helpful notes
 
 ## Introduction
 
-Welcome to a repository filled with vibrant and captivating text files designed assist a dev
+Welcome to a repository filled with vibrant and captivating text files designed to assist a dev.
 
 ## Files
 
